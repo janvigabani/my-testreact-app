@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/janvigabani/my-react-app.git/static/css/main.cabda947.css",
+    "main.js": "/janvigabani/my-react-app.git/static/js/main.ec219f7e.js",
+    "static/js/787.bc7d429a.chunk.js": "/janvigabani/my-react-app.git/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/janvigabani/my-react-app.git/index.html",
+    "static/media/logo.svg": "/janvigabani/my-react-app.git/static/media/logo.3a04e3f39a38aad4bd722c48a6f11308.svg",
+    "main.cabda947.css.map": "/janvigabani/my-react-app.git/static/css/main.cabda947.css.map",
+    "main.ec219f7e.js.map": "/janvigabani/my-react-app.git/static/js/main.ec219f7e.js.map",
+    "787.bc7d429a.chunk.js.map": "/janvigabani/my-react-app.git/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabda947.css",
+    "static/js/main.ec219f7e.js"
+  ]
+}
